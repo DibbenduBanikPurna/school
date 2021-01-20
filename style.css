@@ -1,0 +1,32 @@
+.button{
+    
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    
+}
+.navbar,.home{
+    background-color:  rgba(117, 170, 82,0.4);
+}
+.contain{
+    background-color:  rgba(117, 170, 82,0.4);
+
+}
+.read{
+    font-size: 15px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gainsboro;
+    border-radius: 10px;
+}
+.float{
+    float: right;
+}
+h5{
+    font-size: 14px;
+}
+.final{
+    font-size: 15px;
+}
